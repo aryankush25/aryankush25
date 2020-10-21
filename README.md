@@ -36,4 +36,6 @@ I am Aryan. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
+## ⚡ Top Languages
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankush25&layout=compact&hide=html" alt="Aryan Agarwal Top Langs" /></p>
