@@ -1,8 +1,9 @@
-<h1 align="left">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
-<h1 align="left">I'm Aryan Agrawal</h1>
+### Hi there 👋
+
+I am Aryan. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack Web/Mobile Developer skilled in React, React Native, NodeJS always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
+
 
 - I’m currently working as an Software Engineer [@GeekyAnts](https://geekyants.com/aryan-agarwal)
-
 - How to reach me **aryankush025@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryankush25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryankush25/)](https://www.linkedin.com/in/aryankush25/)
