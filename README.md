@@ -3,7 +3,8 @@
 I am Aryan. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack Web/Mobile Developer skilled in React, React Native, NodeJS always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
-- I’m currently working as an Software Engineer [@GeekyAnts](https://geekyants.com/aryan-agarwal)
+- I’m currently working as an Software Engineer [@GlueLabs](https://gluelabs.com/)
+- Team lead at [@FIFOim](https://fifo.im/)
 - How to reach me **aryankush025@gmail.com**
 
 ## ⚡ Social Profiles
