@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there I am Aryan 👋
 
-I am Aryan. I am a Full Stack Web/Mobile Developer skilled in React, React Native, NodeJS & Flutter always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
+I am a Full Stack Web/Mobile Developer skilled in React, React Native, NodeJS, Flutter, Svelte, etc.
+
+I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
-- I’m currently working as an Software Engineer [@GlueLabs](https://gluelabs.com/)
-- Team lead at [@FIFOim](https://fifo.im/)
-- How to reach me **aryankush025@gmail.com**
+- I’m currently a Tech lead at [@GlueLabs](https://gluelabs.com/)
+- Leading Engineering/Marketing team at [@FIFOim](https://fifo.im/)
+- How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com**
+- Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
 ## ⚡ Social Profiles
 
@@ -36,6 +39,14 @@ I am Aryan. I am a Full Stack Web/Mobile Developer skilled in React, React Nativ
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+
+## ⚡ My Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankush25" alt="aryankush25" /></a> </p>
+
+## ⚡ My contributions
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankush25&" alt="aryankush25" /></p>
 
 ## ⚡ Top Languages
 
