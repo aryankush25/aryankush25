@@ -10,6 +10,9 @@ I always seek new things in this vast world of technology because of great inter
 - How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
+## Profile Views
+<img align="left" src = "https://profile-counter.glitch.me/aryankush25/count.svg" alt ="Loading"> <br>
+
 ## ⚡ Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryankush25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryankush25/)](https://www.linkedin.com/in/aryankush25/)
@@ -48,6 +51,12 @@ I always seek new things in this vast world of technology because of great inter
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankush25&" alt="aryankush25" /></p>
 
+## ⚡ My contributions graph
+
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=aryankush25&theme=redical)](https://github.com/aryankush25/github-readme-activity-graph)
+
+
 ## ⚡ Top Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankush25&layout=compact&hide=html" alt="Aryan Agarwal Top Langs" /></p>
+
