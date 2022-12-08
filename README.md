@@ -51,9 +51,9 @@ I always seek new things in this vast world of technology because of great inter
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankush25&" alt="aryankush25" /></p>
 
-## ⚡ My contributions graph
+<!-- ## ⚡ My contributions graph
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=aryankush25&theme=redical)](https://github.com/aryankush25/github-readme-activity-graph)
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=aryankush25&theme=redical)](https://github.com/aryankush25/github-readme-activity-graph) -->
 
 
 ## ⚡ Top Languages
