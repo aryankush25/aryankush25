@@ -5,7 +5,7 @@ I am a Full Stack Developer and Technical Lead skilled in React, React Native, N
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
-- I’m currently a Tech lead at [@GlueLabs](https://gluelabs.com/)
+- I’m currently a Technical Lead at [@GlueLabs](https://gluelabs.com/)
 - Leading Engineering team at [@FIFOim](https://fifo.im/) [@Glue](https://glue.is/) [@xG](https://x.glue.is/) [@GlueIdentity](https://id.glue.is/)
 - How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
