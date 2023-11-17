@@ -43,9 +43,9 @@ I always seek new things in this vast world of technology because of great inter
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-## ⚡ My Stats
+<!-- ## ⚡ My Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankush25" alt="aryankush25" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankush25" alt="aryankush25" /></a> </p> -->
 
 ## ⚡ My contributions
 
