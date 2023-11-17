@@ -1,12 +1,12 @@
 ### Hi there I am Aryan 👋
 
-I am a Full Stack Web/Mobile Developer skilled in React, React Native, NodeJS, Flutter, Svelte, etc.
+I am a Full Stack Developer and Technical Lead skilled in React, React Native, NodeJS, Flutter, Svelte, etc.
 
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 
 - I’m currently a Tech lead at [@GlueLabs](https://gluelabs.com/)
-- Leading Engineering/Marketing team at [@FIFOim](https://fifo.im/)
+- Leading Engineering team at [@FIFOim](https://fifo.im/), [@Glue](https://glue.is/) & [@xG](https://x.glue.is/)
 - How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
