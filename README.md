@@ -1,6 +1,6 @@
 ### Hi there I am Aryan 👋
 
-I am a Full Stack Developer and Technical Lead skilled in React, React Native, NodeJS, Flutter, Svelte, etc.
+I am a Full Stack Developer and Technical Lead skilled in React, React Native, NodeJS, Flutter, Svelte, NextJs, Remix.run, NestJs etc.
 
 I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
