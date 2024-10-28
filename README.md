@@ -1,13 +1,13 @@
 ### Hi there I am Aryan 👋
 
-I am a Full Stack Developer and Technical Lead skilled in React, React Native, NodeJS, Flutter, Svelte, NextJs, Remix.run, NestJs etc.
+I am a Full Stack Developer and Technical Lead with expertise in a variety of technologies, including React, React Native, Node.js, Flutter, Svelte, Next.js, Remix.run, and NestJS.
 
-I always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
-
+My passion for technology drives me to explore new ideas and continuously learn, fostering both personal and organizational growth in this ever-evolving field.
 
 - I’m currently a Technical Lead at [@GlueLabs](https://gluelabs.com/)
 - Leading Engineering team at [@FIFOim](https://fifo.im/) [@Glue](https://glue.is/) [@xG](https://x.glue.is/) [@GlueIdentity](https://id.glue.is/)
-- How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com**
+- Innovator and Creator at [@Dashgen](https://id.glue.is/) – an AI Assistant Hub that streamlines your AI interactions by providing seamless integration with your preferred models and ensuring secure management of your API keys.
+- How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com** or **aryan@codedash.in**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
 ## Profile Views
