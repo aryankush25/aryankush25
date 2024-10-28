@@ -6,7 +6,7 @@ My passion for technology drives me to explore new ideas and continuously learn,
 
 - I’m currently a Technical Lead at [@GlueLabs](https://gluelabs.com/)
 - Leading Engineering team at [@FIFOim](https://fifo.im/) [@Glue](https://glue.is/) [@xG](https://x.glue.is/) [@GlueIdentity](https://id.glue.is/)
-- Innovator and Creator at [@Dashgen](https://id.glue.is/) – an AI Assistant Hub that streamlines your AI interactions by providing seamless integration with your preferred models and ensuring secure management of your API keys.
+- Innovator and Creator at [@Dashgen](https://dashgen.in/) – an AI Assistant Hub that streamlines your AI interactions by providing seamless integration with your preferred models and ensuring secure management of your API keys.
 - How to reach me **aryankush025@gmail.com** or **aryan@gluelabs.com** or **aryan@codedash.in**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
