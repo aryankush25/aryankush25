@@ -12,7 +12,7 @@ My passion for technology drives me to explore new ideas and continuously learn,
 
 ## Profile Views
 
-<img align="left" src = "https://profile-counter.glitch.me/aryankush25/count.svg" alt ="Loading"> <br>
+<img src="https://komarev.com/ghpvc/?username=aryankush25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ## ⚡ Social Profiles
 
@@ -73,8 +73,8 @@ My passion for technology drives me to explore new ideas and continuously learn,
 
 ## ⚡ My contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankush25&" alt="aryankush25" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=aryankush25&theme=github-dark&hide_border=true" alt="GitHub contribution streak" /></p>
 
 ## ⚡ Top Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankush25&layout=compact&hide=html" alt="Aryan Agarwal Top Langs" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryankush25&theme=github_dark" alt="Aryan Agarwal top languages" /></p>
