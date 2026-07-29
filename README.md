@@ -1,13 +1,14 @@
 ### Hi there I am Aryan 👋
 
-I am a Senior Software Engineer at Thoughtworks and former Technical Lead at Glue Labs, with 6+ years of experience specializing in backend and full-stack development. I build scalable and innovative solutions using a variety of technologies including Node.js, NestJS, React, React Native, Flutter, Svelte, Next.js, Remix.run, FastAPI, Express.js, and more.
+I am a Senior Software Engineer at Thoughtworks and former Technical Lead at Glue Labs, specializing in backend and full-stack development. I build scalable products with JavaScript, TypeScript, Node.js, NestJS, React, Docker, microservices, and distributed systems.
 
 My passion for technology drives me to explore new ideas and continuously learn, fostering both personal and organizational growth in this ever-evolving field.
 
-- Currently building [Dashgen](https://dashgen.in/) – a unified platform for multiple AI models including OpenAI, Anthropic, Google Gemini, Mistral, xAI and DeepSeek.
+- Building [Dashgen](https://dashgen.in/) – a unified platform for working with multiple AI models, including OpenAI, Anthropic, Google Gemini, Mistral, xAI, and DeepSeek.
 - Senior Software Engineer at [Thoughtworks](https://www.thoughtworks.com/)
-- Lead Engineering team at [@FIFOim](https://fifo.im/) [@Glue](https://glue.is/) [@xG](https://x.glue.is/) [@GlueIdentity](https://id.glue.is/)
+- Led engineering for [FIFO](https://fifo.im/), [Glue](https://glue.is/), [xG](https://x.glue.is/), and [Glue Identity](https://id.glue.is/)
 - Previously worked as Technical Lead at [Glue Labs](https://gluelabs.com/) and Software Engineer at [GeekyAnts](https://geekyants.com/)
+- [View my resume](./Aryan_Agarwal_Resume.pdf)
 - How to reach me: **aryankush025@gmail.com** or **aryan@codedash.in**
 
 ## Profile Views
