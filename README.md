@@ -73,8 +73,8 @@ My passion for technology drives me to explore new ideas and continuously learn,
 
 ## ⚡ My contributions
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=aryankush25&theme=default&hide_border=false" alt="GitHub contribution streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=aryankush25&theme=github-dark&hide_border=false" alt="GitHub contribution streak" /></p>
 
 ## ⚡ Top Languages
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryankush25&theme=default" alt="Aryan Agarwal top languages" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryankush25&theme=github_dark" alt="Aryan Agarwal top languages" /></p>
