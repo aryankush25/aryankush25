@@ -2,24 +2,24 @@
 
 I build backend systems — and the teams that run them.
 
-- 🏢 **Senior Software Engineer** at [Thoughtworks](https://www.thoughtworks.com/), leading delivery on a logistics platform for **Apple**
-- 🚀 Building [**Dashgen**](https://dashgen.in/) — one interface for OpenAI, Anthropic, Gemini, Mistral, Groq, xAI and DeepSeek, using your own API keys. **100+ active users**, built solo
-- 👥 Previously **Technical Lead** at [Glue Labs](https://gluelabs.com/) — took four products to production and grew the team from **8 to 20+**
-- 🧩 Led engineering for [FIFO](https://fifo.im/), [Glue](https://glue.is/) and [Glue Identity](https://id.glue.is/)
-- 📐 Read the [**Dashgen architecture write-up**](https://github.com/aryankush25/dashgen-architecture) — system design, ADRs and load-test results
-- 🌱 Currently going deeper on **Go**, distributed systems and platform engineering
-- 📄 [My resume](https://github.com/aryankush25/aryankush25/blob/main/Aryan_Agarwal_Resume.pdf) · ✉️ aryankush025@gmail.com · [aryan@codedash.in](mailto:aryan@codedash.in)
+- **Senior Software Engineer** at [Thoughtworks](https://www.thoughtworks.com/), leading delivery on a logistics platform for **Apple**
+- Building [**Dashgen**](https://dashgen.in/) — one interface for OpenAI, Anthropic, Gemini, Mistral, Groq, xAI and DeepSeek, using your own API keys. **100+ active users**, built solo
+- Previously **Technical Lead** at [Glue Labs](https://gluelabs.com/) — took four products to production and grew the team from **8 to 20+**
+- Led engineering for FIFO, Glue, Glue Mobile and Glue Identity
+- Read the [**Dashgen architecture write-up**](https://github.com/aryankush25/dashgen-architecture) — system design, ADRs and load-test results
+- Currently going deeper on **Go**, distributed systems and platform engineering
+- [My resume](https://github.com/aryankush25/aryankush25/blob/main/Aryan_Agarwal_Resume.pdf) · aryankush025@gmail.com · [aryan@codedash.in](mailto:aryan@codedash.in)
 
-### 🛠 Things I've shipped
+### Things I've shipped
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[Dashgen](https://dashgen.in/)** | Multi-provider LLM platform, 100+ users | NestJS, PostgreSQL, Redis, LangChain, Terraform |
-| **[Glue Identity](https://id.glue.is/)** | Auth & RBAC platform — OAuth 2.0, OIDC | Ory Hydra, Ory Kratos, NestJS |
-| **[FIFO](https://fifo.im/)** | D2C insights platform, real-time interactions | NestJS, PostgreSQL, Deepstream, Next.js |
-| **[Glue](https://glue.is/)** | Fan pages with AI-generated video | Next.js, NestJS, PostgreSQL, Redis |
+| **Glue Identity** | Auth & RBAC platform — OAuth 2.0, OIDC | Ory Hydra, Ory Kratos, NestJS |
+| **FIFO** | D2C insights platform, real-time interactions | NestJS, PostgreSQL, Deepstream, Next.js |
+| **Glue** | Fan pages with AI-generated video | Next.js, NestJS, PostgreSQL, Redis |
 
-### ⚙️ Technologies
+### Technologies
 
 **Languages**
 
@@ -63,7 +63,7 @@ I build backend systems — and the teams that run them.
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🌐 Find me
+### Find me
 
 <p>
 <a href="https://aryankush25.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
