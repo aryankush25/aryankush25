@@ -14,7 +14,7 @@ I build backend systems — and the teams that run them.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Dashgen](https://dashgen.in/)** | Multi-provider LLM platform, 100+ users | NestJS, PostgreSQL, Redis, LangChain, Terraform |
+| **[Dashgen](https://dashgen.in/)** | Multi-provider LLM platform, 100+ users | NestJS, PostgreSQL (RDS), LangChain, Terraform, Caddy |
 | **Glue Identity** | Auth & RBAC platform — OAuth 2.0, OIDC | Ory Hydra, Ory Kratos, NestJS |
 | **FIFO** | D2C insights platform, real-time interactions | NestJS, PostgreSQL, Deepstream, Next.js |
 | **Glue** | Fan pages with AI-generated video | Next.js, NestJS, PostgreSQL, Redis |
@@ -52,6 +52,7 @@ I build backend systems — and the teams that run them.
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
 </p>
 
 **Frontend**
